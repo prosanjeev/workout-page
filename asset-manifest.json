@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/workout-page/static/css/main.e5a53770.css",
+    "main.js": "/workout-page/static/js/main.9a02e40d.js",
+    "static/media/montserrat-latin-400-normal.woff": "/workout-page/static/media/montserrat-latin-400-normal.b48c3d9a8c0a49c1c7b4.woff",
+    "static/media/montserrat-latin-ext-400-normal.woff": "/workout-page/static/media/montserrat-latin-ext-400-normal.cf42d14e809c6fdc0929.woff",
+    "static/media/montserrat-latin-400-normal.woff2": "/workout-page/static/media/montserrat-latin-400-normal.9ef09180105730e3cb92.woff2",
+    "static/media/montserrat-latin-ext-400-normal.woff2": "/workout-page/static/media/montserrat-latin-ext-400-normal.83d2d15dd908a3cf998f.woff2",
+    "static/media/montserrat-cyrillic-ext-400-normal.woff": "/workout-page/static/media/montserrat-cyrillic-ext-400-normal.183f43730b586802d1a0.woff",
+    "static/media/montserrat-cyrillic-400-normal.woff": "/workout-page/static/media/montserrat-cyrillic-400-normal.439a7e91c905d22b3543.woff",
+    "static/media/montserrat-cyrillic-ext-400-normal.woff2": "/workout-page/static/media/montserrat-cyrillic-ext-400-normal.32618c7b62b4ab3c0aff.woff2",
+    "static/media/montserrat-cyrillic-400-normal.woff2": "/workout-page/static/media/montserrat-cyrillic-400-normal.4f7a9c3142f9879900c9.woff2",
+    "static/media/montserrat-vietnamese-400-normal.woff": "/workout-page/static/media/montserrat-vietnamese-400-normal.287fa03e42adda902780.woff",
+    "static/media/montserrat-vietnamese-400-normal.woff2": "/workout-page/static/media/montserrat-vietnamese-400-normal.176348415471f3e062e6.woff2",
+    "index.html": "/workout-page/index.html",
+    "main.e5a53770.css.map": "/workout-page/static/css/main.e5a53770.css.map",
+    "main.9a02e40d.js.map": "/workout-page/static/js/main.9a02e40d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5a53770.css",
+    "static/js/main.9a02e40d.js"
+  ]
+}
